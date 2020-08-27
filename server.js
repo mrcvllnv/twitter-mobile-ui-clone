@@ -36,7 +36,7 @@ let server = createServer({
       fromMarc: trait({
         name: "Marc Villanueva",
         username: "mrcvllnv",
-        avatarUrl: "http://twivatar.glitch.me/mrcvllnv",
+        avatarUrl: "https://pbs.twimg.com/profile_images/1285150028734947329/Gupdxqqo_400x400.jpg",
       }),
     }),
   },
